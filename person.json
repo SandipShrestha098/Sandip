@@ -1,0 +1,11 @@
+{
+    "name": "Sandip",
+    "country": "Nepal",
+    "city": "Kathmandu",
+    "skills": [
+        "Python",
+        "MATLAB",
+        "R"
+    ],
+    "x": 123
+}
